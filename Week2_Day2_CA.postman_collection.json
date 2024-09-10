@@ -14,7 +14,7 @@
 					"script": {
 						"exec": [
 							"pm.test(\"Validated the response body length\", function () {\r",
-							"    pm.expect(pm.response.json().result.length).to.eql(78);\r",
+							"    pm.expect(pm.response.json().result.length).to.eql(89);\r",
 							"});"
 						],
 						"type": "text/javascript",
